@@ -15,7 +15,7 @@ namespace HomeTask_ForGIT_Chubar
 
             Console.WriteLine("Теперь с комментарием");
 
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
