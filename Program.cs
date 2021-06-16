@@ -11,6 +11,10 @@ namespace HomeTask_ForGIT_Chubar
                 Console.WriteLine("Hello GIT");
             }
 
+            Console.WriteLine("Внесу измениния для практики.");
+
+            Console.WriteLine("Теперь с комментарием");
+
             Console.ReadKey();
         }
     }
